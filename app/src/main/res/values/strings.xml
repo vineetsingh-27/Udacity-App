@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Udacity</string>
+
+    <!--Logo Title-->
+    <string name="title">Jobs of Tomorrow Start Here</string>
+    <string name="subtitle">Nanodegrees</string>
+    <string name="logo">dacity</string>
+    <string name="contact">650-565-4533</string>
+    <string name="url">www.udacity.com</string>
+    <string name="location">65A Latham St, Mountain View CA 5647</string>
 </resources>
